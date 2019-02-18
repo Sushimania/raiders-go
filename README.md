@@ -17,6 +17,15 @@ chainstate 풀 데이터 파일은 https://github.com/mycroft/chainstate 에서 
 RAIDS는 EOS 블록체인에서 구동되는 토큰입니다.<br>
 [RAIDS EOS Testnet Explorer](https://kylin.eosx.io/account/eosraidscoin?sub=actions)
 
+## TODO
+- [ ] Explorer 웹페이지 구현
+- [ ] hashrate 합 계산
+- [ ] getInfo API
+- [ ] RAIDS -> WRAIDS 변환 기능(Wrapped RAIDS)
+- [ ] setBtcAddress API
+- [ ] withdrawBtc API
+- [ ] ICO 웹페이지 구현
+
 ## Donation
 Bitcoin : 15ZaE5U8c4TTBXPoVXTv25yfr6Ud2W3stc<br>
 EOS : givemeeosplz
