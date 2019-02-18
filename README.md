@@ -7,7 +7,7 @@ Whitepaper Download: https://bit.ly/2SUCvMu<br>
 
 ## What is raiders-go? 
 raiders(https://github.com/Sushimania/raiders)라는 간단한 프로그램이 확장된 프로젝트가 raiders-go 입니다. 블록체인 경제를 활용하여 컴퓨터 해시파워를 동원해 비트코인 개인키를 무작위로 생성하여 비트코인을 찾는 프로그램입니다.<br>
-기존 raiders 프로토타입이 초당 2~10개의 주소를 탐색한 반면에 raiders-go는 초당 12,000~20,000개의 주소를 탐색합니다.
+기존 raiders 프로토타입이 초당 2-10개의 주소를 탐색한 반면에 raiders-go는 초당 12,000-20,000개의 주소를 탐색합니다.
 
 ## How does it work?
 백서를 참고해주세요.<br>
