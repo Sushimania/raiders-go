@@ -10,7 +10,7 @@ raiders(https://github.com/Sushimania/raiders)라는 간단한 프로그램이 �
 기존 raiders 프로토타입이 초당 2-10개의 주소를 탐색한 반면에 raiders-go는 초당 12,000-20,000개의 주소를 탐색합니다.
 
 ## How does it work?
-백서를 참고해주세요.<br>
+vimeo: https://vimeo.com/user62248948/review/317902073/569efdf5e3<br>
 chainstate 풀 데이터 파일은 https://github.com/mycroft/chainstate 에서 확인하세요.
 
 ## Check on EOS Platform
