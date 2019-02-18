@@ -1,7 +1,7 @@
 # raiders-go
 잃어버린 비트코인을 찾는 프로젝트입니다.
 
-# Whitepaper
+## Whitepaper
 Whitepaper Download: https://bit.ly/2SUCvMu<br>
 (RAIDS 프로젝트가 개발 진행중이라 백서 내용이 일부 수정될 수 있습니다.)
 
@@ -22,6 +22,7 @@ RAIDS는 EOS 블록체인에서 구동되는 토큰입니다.<br>
 - [ ] hashrate 합 계산
 - [ ] getInfo API
 - [ ] RAIDS -> WRAIDS 변환 기능(Wrapped RAIDS)
+- [ ] staking API
 - [ ] setBtcAddress API
 - [ ] withdrawBtc API
 - [ ] ICO 웹페이지 구현
